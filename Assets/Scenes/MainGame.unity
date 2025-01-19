@@ -185,7 +185,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8796238
 RectTransform:
   m_ObjectHideFlags: 0
@@ -819,7 +819,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: csd.gov.hk/emuseum/en
 --- !u!222 &28620147
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -898,8 +898,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: Headquarters of Hong Kong's anti-corruption commission.
 --- !u!222 &30804669
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -925,7 +924,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &32933777
 RectTransform:
   m_ObjectHideFlags: 0
@@ -942,8 +941,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 115, y: 71}
-  m_SizeDelta: {x: 150, y: 100}
+  m_AnchoredPosition: {x: 115, y: 63}
+  m_SizeDelta: {x: 200, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &32933778
 MonoBehaviour:
@@ -967,10 +966,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 32
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -978,9 +977,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Rent:
-
-'
+  m_Text: If you stay here, you will be imprisoned and prohibited from moving for
+    one round.
 --- !u!222 &32933779
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1134,7 +1132,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Harcourt Rd, Admiralty, Hong Kong
 --- !u!222 &37955950
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1242,7 +1240,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &38568653
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1259,8 +1257,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 115, y: 71}
-  m_SizeDelta: {x: 150, y: 100}
+  m_AnchoredPosition: {x: 115, y: 62}
+  m_SizeDelta: {x: 200, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &38568654
 MonoBehaviour:
@@ -1284,10 +1282,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 32
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -1295,9 +1293,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Rent:
-
-'
+  m_Text: After entering, the identification is triggered, and one of them will receive
+    money within 300 coins of the other.
 --- !u!222 &38568655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2652,7 +2649,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: No 45, Tung Tau Wan Road, Stanley, Hong Kong
 --- !u!222 &78488883
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3338,7 +3335,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Cruise Terminal
 --- !u!222 &103264949
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3417,8 +3414,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS: 6, 6X, 260, 73, 973, 314, 14, 63, 65
+
+    MTR: Stanley Blake Pier
+    of Ferry'
 --- !u!222 &104431818
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4584,7 +4583,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e455eb13bd5e95d4699449e89d8c3226, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5546,7 +5545,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: lcsd.gov.hk/en/parks/tp
 --- !u!222 &159892537
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5700,7 +5699,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)3465 6888
 --- !u!222 &167896305
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5845,7 +5844,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: wetlandpark.gov.hk
 --- !u!222 &168765111
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6524,7 +6523,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Tamar Park
 --- !u!222 &189493437
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7503,8 +7502,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &207819305
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8676,7 +8674,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: lcsd.gov.hk/tc/parks/lrp
 --- !u!222 &247531301
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9328,7 +9326,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: kaitakcruiseterminal.com.hk
 --- !u!222 &262432100
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10984,7 +10982,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &307894394
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12107,8 +12105,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &327745408
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12187,7 +12184,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Hong Kong International Airport
 --- !u!222 &328247716
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12266,7 +12263,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Star Ferry Pier, Tsim Sha Tsui, Kowloon
 --- !u!222 &331890544
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12419,10 +12416,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 48
+    m_FontSize: 29
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -12430,7 +12427,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: International Commerce Centre
 --- !u!222 &346957053
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12509,8 +12506,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS:2, 606, 682, 722, 77.
+
+    MTR: North Point Station, Healthy Street
+    West of tramways'
 --- !u!222 &351902153
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12549,7 +12548,7 @@ RectTransform:
   m_GameObject: {fileID: 363521576}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1014460860}
@@ -12561,7 +12560,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &363963783
@@ -12634,8 +12633,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: An iconic skyscraper combining modern design with historic importance.
 --- !u!222 &363963786
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12825,7 +12823,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &374252773
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12900,7 +12898,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &376715973
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13028,7 +13026,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2526 6363
 --- !u!222 &377854324
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13340,8 +13338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r104, 2X, 40, 8P, 930, 936, 961\nMTR: Wan Chai Station"
 --- !u!222 &387426576
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14003,7 +14000,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: 1 Queen's Rd, Central, Hong Kong
 --- !u!222 &416698615
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14087,7 +14084,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Race Course Grand Stand, Sha Tin
 --- !u!222 &423594522
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14118,7 +14115,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &430275606
 RectTransform:
   m_ObjectHideFlags: 0
@@ -14475,8 +14472,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r1R, 23, 21, 2.\nMTR: 360 Cable Car, Tung Chung Station"
 --- !u!222 &440362565
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14555,7 +14551,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: plm.org.hk
 --- !u!222 &441748570
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14718,7 +14714,7 @@ RectTransform:
   m_GameObject: {fileID: 454863630}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1435094023}
@@ -14729,7 +14725,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &459252649
@@ -15004,7 +15000,7 @@ RectTransform:
   m_GameObject: {fileID: 466177625}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 508202606}
@@ -15016,7 +15012,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &468592169 stripped
@@ -15266,7 +15262,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &473010405
 RectTransform:
   m_ObjectHideFlags: 0
@@ -15394,8 +15390,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &474639746
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16125,7 +16120,7 @@ RectTransform:
   m_GameObject: {fileID: 494475509}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2006782322}
@@ -16136,7 +16131,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &494660734
@@ -16884,8 +16879,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: "Hong Kong\u2019s tallest skyscraper, blending business and stunning views."
 --- !u!222 &537570820
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17441,7 +17435,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4f89caa32ef512d499acf9812c2f2180, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17484,7 +17478,7 @@ RectTransform:
   m_GameObject: {fileID: 555666645}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2012031678}
@@ -17495,7 +17489,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &557981568
@@ -17649,8 +17643,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &558747087
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18256,7 +18249,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: MTR stations distributed throughout Hong Kong
 --- !u!222 &572459267
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18837,8 +18830,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS:14 , 40P , 89D
+
+    MTR: Kowloon Bay Station'
 --- !u!222 &585758690
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19074,7 +19068,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Racecourse
 --- !u!222 &592747458
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19426,8 +19420,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS: 2, 307, 690, 780, 789, 930, 930X, 936.
+
+    MTR: Admiralty - Mtr
+    Exit C'
 --- !u!222 &596612712
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20105,7 +20101,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2881 8888
 --- !u!222 &638259764
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20328,7 +20324,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 48
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -20339,7 +20335,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: HSBC Head Office Building
 --- !u!222 &654094613
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20422,7 +20418,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &665765344
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21066,7 +21062,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Wetland Park
 --- !u!222 &674845052
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21220,7 +21216,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &688161697
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21348,7 +21344,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: 33 Shing Fung Rd, Kai Tak, Kowloo
 --- !u!222 &689107536
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21427,8 +21423,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r101, 603, 681, 720, 930X.\nMTR: Central Station"
 --- !u!222 &690225688
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22648,7 +22643,7 @@ RectTransform:
   m_GameObject: {fileID: 733976801}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 25398624}
@@ -22659,7 +22654,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &737641756
@@ -22921,7 +22916,7 @@ RectTransform:
   m_GameObject: {fileID: 745494543}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1137711948}
@@ -22932,7 +22927,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &745887568
@@ -23161,7 +23156,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: hongkongdisneyland.com
 --- !u!222 &748873772
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23187,7 +23182,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &749316687
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23763,7 +23758,7 @@ RectTransform:
   m_GameObject: {fileID: 758954394}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 848543854}
@@ -23776,7 +23771,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &761758902
@@ -24352,7 +24347,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: 
 --- !u!222 &769078723
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24606,7 +24601,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.95
-  m_Text: "Location\r:\n\nTel\r:\n\nWebsite\r:"
+  m_Text: "Location\r:\n\n\n\nWebsite\r:"
 --- !u!222 &777849091
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25496,7 +25491,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &799309463
 RectTransform:
   m_ObjectHideFlags: 0
@@ -26462,8 +26457,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS: Airport Citybus
+
+    MTR: Airport Express'
 --- !u!222 &836244482
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26735,7 +26731,7 @@ RectTransform:
   m_GameObject: {fileID: 846249201}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 110821788}
@@ -26746,7 +26742,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &848543853
@@ -27516,7 +27512,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2730 0800
 --- !u!222 &885342024
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27779,7 +27775,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9873d493e5088dd428a696cf65ca9618, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -28329,8 +28325,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A historic prison building with significant heritage value.
 --- !u!222 &897911590
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28409,8 +28404,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A landmark integrating tradition and innovation.
 --- !u!222 &906729654
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28489,8 +28483,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &908721197
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29140,8 +29133,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS: 20A, 20R, 22, 22M, 5R, Taxi
+
+    MTR: Kowloon Bay, Kwun Tong, Kai
+    Tak, Sung Wong Toi'
 --- !u!222 &921073886
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29840,7 +29835,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Disneyland
 --- !u!222 &953230909
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -30265,7 +30260,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: 1 Garden Rd, Central, Hong Kong
 --- !u!222 &959570049
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -30923,7 +30918,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Chek Lap Kok, New Territories
 --- !u!222 &971740215
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31077,7 +31072,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2181 8888
 --- !u!222 &985460320
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31882,7 +31877,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: ICAC Building, 303 Java Rd, North Point, Hong Kong
 --- !u!222 &1000998581
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31908,7 +31903,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1006504383
 RectTransform:
   m_ObjectHideFlags: 0
@@ -32507,8 +32502,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS:R42, R33, 36, R8, B5
+
+    MTR:Disneyland Resort Line'
 --- !u!222 &1022252572
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32710,8 +32706,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1030814441
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33138,7 +33133,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: hkcec.com/en/golden-bauhinia-square
 --- !u!222 &1087167091
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34393,7 +34388,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: bochk.com/en/aboutus/corpprofile/boctower.html
 --- !u!222 &1136204257
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34616,7 +34611,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 48
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -34627,7 +34622,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: 'ICAC Headquarters Building '
 --- !u!222 &1143736381
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34706,8 +34701,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A world-famous theme park perfect for family fun.
 --- !u!222 &1149590222
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34942,7 +34936,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Chuk Yuen Road, Wong Tai Sin, Kowloon
 --- !u!222 &1162851963
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -35458,7 +35452,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1178002828
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35689,7 +35683,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17a1ca2e027b71f4fbbf39525f43683b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -35764,7 +35758,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cdbbfa2997db5b84c91652dd2cc3bf18, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -37406,8 +37400,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS:\r 967, 276B, E37, 269D, 69X\nMTR: Tin Sau Station or Wetland Park
+    Station "
 --- !u!222 &1241851935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38139,7 +38133,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: hongkongairport.com
 --- !u!222 &1258969899
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38218,7 +38212,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2147 3199
 --- !u!222 &1262559804
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38372,8 +38366,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A renowned horse racing venue in Sha Tin, central to local racing culture.
 --- !u!222 &1265446149
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38527,7 +38520,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: mtr.com.hk
 --- !u!222 &1269912474
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38799,7 +38792,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: shkp-icc.com
 --- !u!222 &1283692308
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38919,8 +38912,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: accommodates international cruise ships
 --- !u!222 &1288944690
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -39690,7 +39682,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: icac.org.hk
 --- !u!222 &1315577558
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -39756,7 +39748,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5e427def6dfb3a4418a49fa41c4cdf15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -40115,7 +40107,7 @@ RectTransform:
   m_GameObject: {fileID: 1329793784}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1508019614}
@@ -40126,7 +40118,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1330091095
@@ -41082,7 +41074,7 @@ RectTransform:
   m_GameObject: {fileID: 1367268587}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1202270547}
@@ -41093,7 +41085,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1368043726
@@ -41241,8 +41233,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A world-class international airport and a major aviation hub in Asia.
 --- !u!222 &1368230376
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -42758,7 +42749,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Skip
+  m_Text: End Turn
 --- !u!222 &1426341069
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -42916,8 +42907,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: "One of the world\u2019s largest seated bronze Buddha statues."
 --- !u!222 &1430461196
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -43061,7 +43051,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1435052953
 RectTransform:
   m_ObjectHideFlags: 0
@@ -43103,10 +43093,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 32
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -43114,9 +43104,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Rent:
-
-'
+  m_Text: When passing by, get 200 coins
 --- !u!222 &1435052955
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -43909,7 +43897,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: starferry.com.hk/index.php
 --- !u!222 &1449149073
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -44180,7 +44168,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2520 2321
 --- !u!222 &1457801184
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -44417,8 +44405,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1468962775
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -44899,7 +44886,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Hong Kong Disneyland Resort, Sunny Bay, Lantau Island
 --- !u!222 &1487887443
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -45361,7 +45348,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1503918990
 RectTransform:
   m_ObjectHideFlags: 0
@@ -46036,8 +46023,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r215X, 280X, 281A, 930X, 936.\nMTR: Kowloon Station"
 --- !u!222 &1510229854
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -46977,7 +46963,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Star Ferry Pier
 --- !u!222 &1540216640
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -47629,8 +47615,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r101, 104, 182, 780, 930.\nMTR: Central Station"
 --- !u!222 &1550212320
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -48203,7 +48188,7 @@ RectTransform:
   m_GameObject: {fileID: 1563237557}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1118400267}
@@ -48214,7 +48199,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1566945989
@@ -48728,7 +48713,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: 1 Expo Drive, Wan Chai, Hong Kong Island
 --- !u!222 &1574567725
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -49082,7 +49067,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bc9e9eae23f0d8640a77c47421e73d6f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -49475,8 +49460,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1596684162
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -49510,7 +49494,7 @@ RectTransform:
   m_GameObject: {fileID: 1605847808}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1521600547}
@@ -49521,7 +49505,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1608736375
@@ -49581,7 +49565,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2b485aa04e6903646ae1766c6fd782f1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -49749,8 +49733,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1616572852
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50330,7 +50313,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1635064116
 RectTransform:
   m_ObjectHideFlags: 0
@@ -50497,7 +50480,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Lion Rock
 --- !u!222 &1638544977
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50523,7 +50506,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1641056131
 RectTransform:
   m_ObjectHideFlags: 0
@@ -50540,8 +50523,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 115, y: 71}
-  m_SizeDelta: {x: 150, y: 100}
+  m_AnchoredPosition: {x: 104, y: 60}
+  m_SizeDelta: {x: 250, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1641056132
 MonoBehaviour:
@@ -50565,10 +50548,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 32
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -50576,9 +50559,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Rent:
+  m_Text: 'Chance
 
-'
+    Randomly receive the following rewards
+
+    Get 50/100/300
+    Coins'
 --- !u!222 &1641056133
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50807,7 +50793,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)3550 3388
 --- !u!222 &1647455549
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50886,8 +50872,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1653255930
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50953,7 +50938,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d5c26eef9ecd2094faffdf0a8af1f3dc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -51080,8 +51065,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r28, 281A, 3, 6, 1, 1A,\nMTR: Tsim Sha Tsui Station, East Tsim Sha
+    Tsui Station"
 --- !u!222 &1656476640
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -51345,6 +51330,86 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1702795340}
     m_Modifications:
+    - target: {fileID: 83926000861605058, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 83926000861605058, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 672266422976738321, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.481
+      objectReference: {fileID: 0}
+    - target: {fileID: 672266422976738321, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 672266422976738321, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.247
+      objectReference: {fileID: 0}
+    - target: {fileID: 921137393319918110, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: 921137393319918110, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 952461239063848415, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134153631301089902, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.481
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134153631301089902, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.247
+      objectReference: {fileID: 0}
+    - target: {fileID: 1147643844258900297, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03500003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1147643844258900297, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1213320778876112151, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.515
+      objectReference: {fileID: 0}
+    - target: {fileID: 1213320778876112151, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.035
+      objectReference: {fileID: 0}
+    - target: {fileID: 1213320778876112151, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.2469998
+      objectReference: {fileID: 0}
+    - target: {fileID: 1421257005966400568, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479797072941200019, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479797072941200019, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479797072941200019, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.238
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695842772452828782, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
     - target: {fileID: 2011607495696190422, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.26
@@ -51385,9 +51450,173 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2351807002240250617, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351807002240250617, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351807002240250617, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.241
+      objectReference: {fileID: 0}
+    - target: {fileID: 3374236675410806917, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 3622680210416332154, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 3622680210416332154, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.241
+      objectReference: {fileID: 0}
+    - target: {fileID: 3623843379072179350, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3623843379072179350, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 3853905303137208251, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3853905303137208251, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 3986866017205492345, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 4799401314494547974, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.515
+      objectReference: {fileID: 0}
+    - target: {fileID: 4799401314494547974, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4799401314494547974, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.247
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106256021042871968, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03500003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106256021042871968, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5748588719636144411, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859583618959895936, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.48399997
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859583618959895936, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03500003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859583618959895936, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.23799995
+      objectReference: {fileID: 0}
+    - target: {fileID: 6185115195505871950, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
     - target: {fileID: 6186810360060524159, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
       propertyPath: m_Name
       value: map
+      objectReference: {fileID: 0}
+    - target: {fileID: 6275170462606506060, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6275170462606506060, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 7049948711095971304, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 7400582192632515728, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7400582192632515728, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 7917328378573528442, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7917328378573528442, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973426998670173691, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973426998670173691, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017220322425913730, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017220322425913730, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228853180057587782, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 8400796198255505150, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: 8400796198255505150, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 9086239650727625910, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03500003
+      objectReference: {fileID: 0}
+    - target: {fileID: 9086239650727625910, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 9103798976953229359, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9103798976953229359, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.244
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166765656249672136, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166765656249672136, guid: 0deb61968e6538d4a8e7e5f561a32194, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.245
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52102,8 +52331,8 @@ MonoBehaviour:
   BuyBtn: {fileID: 2000814201}
   InfoPage: {fileID: 864247191}
   LocatPage: {fileID: 182230895}
-  Cost: {fileID: 0}
-  Rent: {fileID: 0}
+  Cost: {fileID: 524308126}
+  Rent: {fileID: 2139474611}
   playerLand: {fileID: 2100000, guid: c9b145febfebf6d4589fd2cec88238f6, type: 2}
   playerLand2: {fileID: 2100000, guid: c9b145febfebf6d4589fd2cec88238f6, type: 2}
   AiLand: {fileID: 2100000, guid: 49b543add31bc4049846e58c36fd8d0f, type: 2}
@@ -52900,7 +53129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.95
-  m_Text: "Location\r:\n\nTel\r:\n\nWebsite\r:"
+  m_Text: "Location\r:\n\n\n\nWebsite\r:"
 --- !u!222 &1671455202
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53018,8 +53247,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1672673606
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53562,10 +53790,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 20
+    m_FontSize: 18
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -53573,8 +53801,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: ' A park with great views of Victoria Harbour, near Central Government
+    Offices.'
 --- !u!222 &1684552305
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54834,7 +55062,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Po Lin Monastery (plm.org.hk)
+  m_Text: about.hsbc.com.hk
 --- !u!222 &1709655777
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54918,8 +55146,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: A nature reserve ideal for exploring wetlands and birdwatching.
 --- !u!222 &1710984752
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55360,7 +55587,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1724000776
 RectTransform:
   m_ObjectHideFlags: 0
@@ -55370,7 +55597,7 @@ RectTransform:
   m_GameObject: {fileID: 1724000775}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 835952937}
@@ -55382,7 +55609,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.1, y: 24.5}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1726405017
@@ -55767,8 +55994,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1742508314
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55881,7 +56107,7 @@ RectTransform:
   m_GameObject: {fileID: 1746428623}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 139789274}
@@ -55892,7 +56118,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1748894361
@@ -56040,8 +56266,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: "BUS: \r103, 42C, 72, 73, 66S.\nMTR: Wong Tai Sin Station"
 --- !u!222 &1750240609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56202,7 +56427,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.95
-  m_Text: "Location\r:\n\nTel\r:\n\nWebsite\r:"
+  m_Text: "Location\r:\n\n\n\nWebsite\r:"
 --- !u!222 &1752339309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56640,7 +56865,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)3152 2666
 --- !u!222 &1764338212
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56966,7 +57191,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1781925621
 RectTransform:
   m_ObjectHideFlags: 0
@@ -57094,7 +57319,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2582 8888
 --- !u!222 &1782144168
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -57173,7 +57398,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2367 7065
 --- !u!222 &1786332839
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -58048,7 +58273,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 395563858c860104e94fdbcaaf715e87, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -58361,7 +58586,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: 
 --- !u!222 &1817892064
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -58619,7 +58844,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1826103128
 RectTransform:
   m_ObjectHideFlags: 0
@@ -58694,7 +58919,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1826739899
 RectTransform:
   m_ObjectHideFlags: 0
@@ -58984,8 +59209,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.55
-  m_Text: From Tung Chung Cable Car Terminal (Exit B of Tung Chung MTR station),
-    take a 25-minute cable car ride to Ngong Ping.
+  m_Text: 'BUS: 72, 72A, 74A, 85M, 85X.
+
+    MTR: Racecourse Station'
 --- !u!222 &1839427690
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -59284,8 +59510,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: Offers a classic ferry ride between Kowloon and Hong Kong Island.
 --- !u!222 &1845108139
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -59762,7 +59987,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46353a08aa094f54288dddeed969eef1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -60017,7 +60242,7 @@ RectTransform:
   m_GameObject: {fileID: 1895308411}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3078798, y: 0.3078798, z: 0.6157596}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1614775242}
@@ -60028,7 +60253,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: 35.5}
+  m_AnchoredPosition: {x: 18.09999, y: 24.49999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1897892536
@@ -60202,7 +60427,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1901243744
 RectTransform:
   m_ObjectHideFlags: 0
@@ -60525,7 +60750,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Stanley Prison
 --- !u!222 &1905628346
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -60604,7 +60829,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: (852)2985 5248
+  m_Text: (852)2337 4648
 --- !u!222 &1912947676
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -60878,8 +61103,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1921553580
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61019,8 +61243,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: "A symbolic mountain representing Hong Kong\u2019s resilient spirit."
 --- !u!222 &1926737645
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61099,8 +61322,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &1927048853
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61320,7 +61542,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c6cf6d8841f489d49bcc70229bc355d1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -61807,7 +62029,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 48
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -61818,7 +62040,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: MTR Headquarters Building
 --- !u!222 &1948149395
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -62331,7 +62553,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1973886820
 RectTransform:
   m_ObjectHideFlags: 0
@@ -63490,7 +63712,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Po Lin Monastery, Ngong Ping, Lantau Island
 --- !u!222 &2007567448
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -63690,7 +63912,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: Wetland Park Rd, Tin Shui Wai
 --- !u!222 &2014376299
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -64864,7 +65086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b62d8c8c61805a84abd0f05656630de4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -65448,7 +65670,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Bank of China Building
 --- !u!222 &2058224361
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66097,7 +66319,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Po Lin Monastery, Ngong Ping, Lantau\r"
+  m_Text: 1 Austin Road West, West Kowloon, Kowloon
 --- !u!222 &2074840378
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66490,8 +66712,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: Home to the Golden Bauhinia statue, symbolizing Hong Kong's return to China.
 --- !u!222 &2112584520
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66557,7 +66778,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e3ab217960e21fd41b95e817f479976b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -66720,8 +66941,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue.
+  m_Text: 
 --- !u!222 &2121957135
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66805,8 +67025,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.45
-  m_Text: The Tian Tan Buddha, located on Lantau Island, is the world's largest outdoor
-    bronze Buddha statue, reaching a height of 34 meters and weighing 250 tons.
+  m_Text: "The operational and management center of Hong Kong\u2019s railway system."
 --- !u!222 &2129475778
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -67149,7 +67368,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: bd1b0e9c7227df745a45a50aaaac15a5, type: 3}
-    m_FontSize: 48
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -67160,7 +67379,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Big Buddha
+  m_Text: Golden Bauhinia Square
 --- !u!222 &2145109152
 CanvasRenderer:
   m_ObjectHideFlags: 0
