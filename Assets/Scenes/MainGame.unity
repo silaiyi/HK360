@@ -3974,9 +3974,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!1 &109859958
 GameObject:
@@ -5773,11 +5770,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba84273e45d907c4fae88fdc83811be7, type: 3}
---- !u!1 &168646659 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ba84273e45d907c4fae88fdc83811be7, type: 3}
-  m_PrefabInstance: {fileID: 168646658}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &168765108
 GameObject:
   m_ObjectHideFlags: 0
@@ -6959,7 +6951,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1659786841}
         m_TargetAssemblyTypeName: Tile, Assembly-CSharp
-        m_MethodName: TolocatePage
+        m_MethodName: ToInfoPage
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8604,9 +8596,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!1 &247531298
 GameObject:
@@ -10502,7 +10491,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1348019478}
+      - m_Target: {fileID: 1844007673}
         m_TargetAssemblyTypeName: Tile, Assembly-CSharp
         m_MethodName: PlayerBuyLand
         m_Mode: 1
@@ -14855,9 +14844,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!1 &462384989
 GameObject:
@@ -20380,8 +20366,8 @@ MonoBehaviour:
   BuyBtn: {fileID: 960049977}
   InfoPage: {fileID: 1350369322}
   LocatPage: {fileID: 1971954292}
-  Cost: {fileID: 0}
-  Rent: {fileID: 0}
+  Cost: {fileID: 1504554336}
+  Rent: {fileID: 49811883}
   playerLand: {fileID: 2100000, guid: 59be4364c92000f4a922c53593c5cfe7, type: 2}
   playerLand2: {fileID: 2100000, guid: d7bac05f50404564192935844c01b2ae, type: 2}
   AiLand: {fileID: 2100000, guid: 59be4364c92000f4a922c53593c5cfe7, type: 2}
@@ -20396,9 +20382,6 @@ MonoBehaviour:
   isJailTile: 1
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 0}
-  HugebuildingModelLv2: {fileID: 0}
-  HugebuildingModelLv3: {fileID: 0}
   isBought: 0
 --- !u!4 &664372453 stripped
 Transform:
@@ -21747,11 +21730,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 296d6ef3a5290e94db4529bfa1a9046e, type: 3}
---- !u!1 &694487720 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 296d6ef3a5290e94db4529bfa1a9046e, type: 3}
-  m_PrefabInstance: {fileID: 694487719}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &695948136
 GameObject:
   m_ObjectHideFlags: 0
@@ -40580,8 +40558,8 @@ MonoBehaviour:
   BuyBtn: {fileID: 105683652}
   InfoPage: {fileID: 448664640}
   LocatPage: {fileID: 578917296}
-  Cost: {fileID: 0}
-  Rent: {fileID: 0}
+  Cost: {fileID: 1868014251}
+  Rent: {fileID: 844433336}
   playerLand: {fileID: 2100000, guid: fe2daa3e1773a314d9e6b8a9c74be584, type: 2}
   playerLand2: {fileID: 2100000, guid: c9b145febfebf6d4589fd2cec88238f6, type: 2}
   AiLand: {fileID: 2100000, guid: f56757e9573368c4499b2ec1ec976d8f, type: 2}
@@ -40596,9 +40574,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 0}
-  HugebuildingModelLv2: {fileID: 0}
-  HugebuildingModelLv3: {fileID: 0}
   isBought: 0
 --- !u!1 &1350369322
 GameObject:
@@ -44794,8 +44769,8 @@ MonoBehaviour:
   BuyBtn: {fileID: 2066572768}
   InfoPage: {fileID: 776171192}
   LocatPage: {fileID: 1500530716}
-  Cost: {fileID: 0}
-  Rent: {fileID: 0}
+  Cost: {fileID: 1942521097}
+  Rent: {fileID: 819930863}
   playerLand: {fileID: 2100000, guid: fe2daa3e1773a314d9e6b8a9c74be584, type: 2}
   playerLand2: {fileID: 2100000, guid: c9b145febfebf6d4589fd2cec88238f6, type: 2}
   AiLand: {fileID: 2100000, guid: f56757e9573368c4499b2ec1ec976d8f, type: 2}
@@ -44810,9 +44785,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 1
-  HugebuildingModelLv1: {fileID: 0}
-  HugebuildingModelLv2: {fileID: 0}
-  HugebuildingModelLv3: {fileID: 0}
   isBought: 0
 --- !u!1 &1483856541
 GameObject:
@@ -46631,11 +46603,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521600546}
   m_CullTransparentMesh: 1
---- !u!1 &1528119689 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a7c290c3ccdd6e74d9bd7fca33d51b4d, type: 3}
-  m_PrefabInstance: {fileID: 1922616890}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1528700877
 GameObject:
   m_ObjectHideFlags: 0
@@ -47906,6 +47873,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   diffcultText: {fileID: 1489521297}
+  easyBtn: {fileID: 0}
+  NormalBtn: {fileID: 0}
+  HardBtn: {fileID: 0}
+  ExpertBtn: {fileID: 0}
 --- !u!114 &1552762453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52235,13 +52206,13 @@ MonoBehaviour:
   star4: {fileID: 1515251471}
   landCube: {fileID: 2122492202}
   Landouter: {fileID: 560551494}
-  locatBtn: {fileID: 227544323}
-  InfoBtn: {fileID: 484708605}
+  locatBtn: {fileID: 526987694}
+  InfoBtn: {fileID: 201716971}
   BuyBtn: {fileID: 960049977}
   InfoPage: {fileID: 1000380321}
   LocatPage: {fileID: 1735519311}
-  Cost: {fileID: 0}
-  Rent: {fileID: 0}
+  Cost: {fileID: 1695053359}
+  Rent: {fileID: 1695053359}
   playerLand: {fileID: 2100000, guid: c9b145febfebf6d4589fd2cec88238f6, type: 2}
   playerLand2: {fileID: 2100000, guid: fe2daa3e1773a314d9e6b8a9c74be584, type: 2}
   AiLand: {fileID: 2100000, guid: 49b543add31bc4049846e58c36fd8d0f, type: 2}
@@ -52256,9 +52227,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 1
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 0}
-  HugebuildingModelLv2: {fileID: 0}
-  HugebuildingModelLv3: {fileID: 0}
   isBought: 0
 --- !u!114 &1659786842
 MonoBehaviour:
@@ -52308,9 +52276,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!114 &1659786843
 MonoBehaviour:
@@ -52360,9 +52325,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!114 &1659786844
 MonoBehaviour:
@@ -52412,9 +52374,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!114 &1659786845
 MonoBehaviour:
@@ -52464,9 +52423,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 0}
-  HugebuildingModelLv2: {fileID: 0}
-  HugebuildingModelLv3: {fileID: 0}
   isBought: 0
 --- !u!65 &1659786847
 BoxCollider:
@@ -52750,9 +52706,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!4 &1660371045 stripped
 Transform:
@@ -53119,9 +53072,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!4 &1671417455 stripped
 Transform:
@@ -55299,11 +55249,11 @@ MonoBehaviour:
   star4: {fileID: 1698191956}
   landCube: {fileID: 2016460905}
   Landouter: {fileID: 2013226279}
-  locatBtn: {fileID: 0}
-  InfoBtn: {fileID: 0}
-  BuyBtn: {fileID: 0}
-  InfoPage: {fileID: 0}
-  LocatPage: {fileID: 0}
+  locatBtn: {fileID: 258727675}
+  InfoBtn: {fileID: 994960287}
+  BuyBtn: {fileID: 1549552296}
+  InfoPage: {fileID: 1289521701}
+  LocatPage: {fileID: 297162226}
   Cost: {fileID: 319942194}
   Rent: {fileID: 1258090083}
   playerLand: {fileID: 2100000, guid: fe2daa3e1773a314d9e6b8a9c74be584, type: 2}
@@ -55320,9 +55270,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!4 &1718510567 stripped
 Transform:
@@ -59424,9 +59371,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!4 &1844007675 stripped
 Transform:
@@ -62477,9 +62421,6 @@ MonoBehaviour:
   isJailTile: 0
   isOpZone: 0
   isGameZone: 0
-  HugebuildingModelLv1: {fileID: 1528119689}
-  HugebuildingModelLv2: {fileID: 168646659}
-  HugebuildingModelLv3: {fileID: 694487720}
   isBought: 0
 --- !u!4 &1966127981 stripped
 Transform:
@@ -66665,7 +66606,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9fb5231b0b8bfb4384c91444f63cafe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e71ec2a2b6319254ab2fa72fb3827dec, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

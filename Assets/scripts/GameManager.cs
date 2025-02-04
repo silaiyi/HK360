@@ -57,8 +57,8 @@ public class GameManager : MonoBehaviour
     public void rolldice(){
             int diceRoll = Random.Range(1, 5); // 擲骰子，獲得1-4之間的隨機數
             
-            player.MovePlayerToken(diceRoll);
-            //player.MovePlayerToken(1);
+            //player.MovePlayerToken(diceRoll);
+            player.MovePlayerToken(4);
             playerCanMove = false;
             movechange=0;
     }

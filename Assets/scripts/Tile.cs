@@ -22,7 +22,7 @@ public class Tile : MonoBehaviour
     //public string txtFileName;
     public bool canBuy= true;
     public bool isJailTile = false,isOpZone = false,isGameZone = false;
-    public GameObject HugebuildingModelLv1,HugebuildingModelLv2,HugebuildingModelLv3;
+    //public GameObject HugebuildingModelLv1,HugebuildingModelLv2,HugebuildingModelLv3;
     public bool isBought = false;
     //private GameManager gameManager;
 /*
@@ -367,9 +367,9 @@ public void LandLv(){
             buildingModelLv1.SetActive(false);
             buildingModelLv2.SetActive(false);
             buildingModelLv3.SetActive(false);
-            HugebuildingModelLv1.SetActive(false);
-            HugebuildingModelLv2.SetActive(false);
-            HugebuildingModelLv3.SetActive(false);
+            //HugebuildingModelLv1.SetActive(false);
+            //HugebuildingModelLv2.SetActive(false);
+            //HugebuildingModelLv3.SetActive(false);
             star1.SetActive(false);
             star2.SetActive(false);
             star3.SetActive(false);
@@ -381,17 +381,17 @@ public void LandLv(){
             buildingModelLv1.SetActive(false);
             buildingModelLv2.SetActive(false);
             buildingModelLv3.SetActive(false);
-            HugebuildingModelLv1.SetActive(false);
-            HugebuildingModelLv2.SetActive(false);
-            HugebuildingModelLv3.SetActive(false);
+            //HugebuildingModelLv1.SetActive(false);
+            //HugebuildingModelLv2.SetActive(false);
+            //HugebuildingModelLv3.SetActive(false);
             star1.SetActive(true);
             star2.SetActive(false);
             star3.SetActive(false);
             star4.SetActive(false);
-            Debug.Log("Lv1");
+            //Debug.Log("Lv1");
             if(isPlayerOwned==true){
                 playLandMark.SetActive(true);
-                Debug.Log("Lv1");
+                //Debug.Log("Lv1");
                 if(isBought==false){
                     PlayerToken.OwnedLands+=50;
                     isBought=true;
@@ -408,9 +408,9 @@ public void LandLv(){
             buildingModelLv1.SetActive(true);
             buildingModelLv2.SetActive(false);
             buildingModelLv3.SetActive(false);
-            HugebuildingModelLv1.SetActive(true);
-            HugebuildingModelLv2.SetActive(false);
-            HugebuildingModelLv3.SetActive(false);
+            //HugebuildingModelLv1.SetActive(true);
+            //HugebuildingModelLv2.SetActive(false);
+            //HugebuildingModelLv3.SetActive(false);
             star1.SetActive(true);
             star2.SetActive(true);
             star3.SetActive(false);
@@ -433,9 +433,9 @@ public void LandLv(){
             buildingModelLv1.SetActive(false);
             buildingModelLv2.SetActive(true);
             buildingModelLv3.SetActive(false);
-            HugebuildingModelLv1.SetActive(false);
-            HugebuildingModelLv2.SetActive(true);
-            HugebuildingModelLv3.SetActive(false);
+            //HugebuildingModelLv1.SetActive(false);
+            //HugebuildingModelLv2.SetActive(true);
+            //HugebuildingModelLv3.SetActive(false);
             star1.SetActive(true);
             star2.SetActive(true);
             star3.SetActive(true);
@@ -458,9 +458,9 @@ public void LandLv(){
             buildingModelLv1.SetActive(false);
             buildingModelLv2.SetActive(false);
             buildingModelLv3.SetActive(true);
-            HugebuildingModelLv1.SetActive(false);
-            HugebuildingModelLv2.SetActive(false);
-            HugebuildingModelLv3.SetActive(true);
+            //HugebuildingModelLv1.SetActive(false);
+            //HugebuildingModelLv2.SetActive(false);
+            //HugebuildingModelLv3.SetActive(true);
             star1.SetActive(true);
             star2.SetActive(true);
             star3.SetActive(true);
